@@ -61,6 +61,14 @@ p {
   font-size: 5em;
 }
 
+.split__timer__display {
+  padding-left: 1.5em;
+}
+.split__timer__display > p {
+  font-size: 3em;
+  text-align: center;
+}
+
 .button__wrapper {
   display: flex;
   width: 30vw;
